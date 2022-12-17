@@ -23,35 +23,35 @@
       </tr>
       <tr>
         <th><b>Fat 0g</b></th>
-        <td>0%</td>
+        <td><b>0%</b></td>
       </tr>
       <tr>
         <th>Saturated Fat 0g</th>
-        <td>0%</td>
+        <td><b>0%</b></td>
       </tr>
       <tr>
         <th>Trans Fat 0g</th>
-        <td>0%</td>
+        <td><b>0%</b></td>
       </tr>
       <tr>
         <th>Sodium 55mg</th>
-        <td>2%</td>
+        <td><b>2%</b></td>
       </tr>
       <tr>
         <th>Cholesterol 0mg</th>
-        <td>0%</td>
+        <td><b>0%</b></td>
       </tr>
       <tr>
         <th>Protein 0g</th>
-        <td>0%</td>
+        <td><b>0%</b></td>
       </tr>
       <tr>
         <th>Carbohydrates 16g</th>
-        <td>6%</td>
+        <td><b>6%</b></td>
       </tr>
       <tr>
         <th>Sugar 12g</th>
-        <td>24%</td>
+        <td><b>24%</b></td>
       </tr>
     </tbody>
   </table>
