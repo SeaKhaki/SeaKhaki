@@ -1,3 +1,70 @@
-# ¡Aloha!
-
-yes hi i make stuff
+<!--(c) SeaKhaki-->
+<section>
+  <header>
+    <h1>Nutrition Facts</h1>
+  </header>
+  <table>
+    <!-- Main Nutrition Label -->
+    <thead>
+      <tr>
+        <th colspan="3">Serving Size 1 Cup (about 125g)</th>
+      </tr>
+      <tr>
+        <th colspan="3"><a href="https://github.com/SeaKhaki?tab=repositories">1 cups</a> per container</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th colspan="3"><b>Amount per serving</b></th>
+      </tr>
+      <tr>
+        <th><b>Calories 140</b></th>
+        <td><b>% Daily Value*</b></td>
+      </tr>
+      <tr>
+        <th><b>Fat 0g</b></th>
+        <td>0%</td>
+      </tr>
+      <tr>
+        <th>Saturated Fat 0g</th>
+        <td>0%</td>
+      </tr>
+      <tr>
+        <th>Trans Fat 0g</th>
+        <td>0%</td>
+      </tr>
+      <tr>
+        <th>Sodium 55mg</th>
+        <td>2%</td>
+      </tr>
+      <tr>
+        <th>Cholesterol 0mg</th>
+        <td>0%</td>
+      </tr>
+      <tr>
+        <th>Protein 0g</th>
+        <td>0%</td>
+      </tr>
+      <tr>
+        <th>Carbohydrates 16g</th>
+        <td>6%</td>
+      </tr>
+      <tr>
+        <th>Sugar 12g</th>
+        <td>24%</td>
+      </tr>
+    </tbody>
+  </table>
+  <figure>
+    <th>
+      <b>INGREDIENTS:</b> Vanilla, Brown Sugar, Cream, Butter, Salt,
+      C, Nim, HTML, Python, JavaScript, Shell, C++
+    </th>
+  </figure>
+  <footer>
+    <div>
+    <!-- Subscript due to GFM lack of support for <small> -->
+    <sub>no artificial colors, no artificial flavours!</sub>
+    </div>
+  </footer>
+</section>
