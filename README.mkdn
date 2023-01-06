@@ -7,10 +7,10 @@
     <!-- Main Nutrition Label -->
     <thead>
       <tr>
-        <th colspan="3">Serving Size 1 Cup (about 125g)</th>
+        <th colspan="3">Serving Size 1 Pudding Cup (about 92g)</th>
       </tr>
       <tr>
-        <th colspan="3"><a href="https://github.com/SeaKhaki?tab=repositories">1 cups</a> per container</th>
+        <th colspan="3"><a href="https://github.com/SeaKhaki?tab=repositories">1 servings</a> per container</th>
       </tr>
     </thead>
     <tbody>
@@ -18,40 +18,44 @@
         <th colspan="3"><b>Amount per serving</b></th>
       </tr>
       <tr>
-        <th><b>Calories 140</b></th>
+        <th><b>Calories 90</b></th>
         <td><b>% Daily Value*</b></td>
       </tr>
       <tr>
-        <th><b>Fat 0g</b></th>
-        <td><b>0%</b></td>
+        <th><b>Fat 2.5g</b></th>
+        <td><b>3%</b></td>
       </tr>
       <tr>
-        <th>Saturated Fat 0g</th>
-        <td><b>0%</b></td>
+        <th>+ Saturated Fat 1.5g</th>
+        <td><b>8%</b></td>
       </tr>
       <tr>
-        <th>Trans Fat 0g</th>
+        <th>+ Trans Fat 0g</th>
         <td><b>0%</b></td>
-      </tr>
-      <tr>
-        <th>Sodium 55mg</th>
-        <td><b>2%</b></td>
       </tr>
       <tr>
         <th>Cholesterol 0mg</th>
         <td><b>0%</b></td>
       </tr>
       <tr>
-        <th>Protein 0g</th>
-        <td><b>0%</b></td>
-      </tr>
-      <tr>
-        <th>Carbohydrates 16g</th>
+        <th>Sodium 135mg</th>
         <td><b>6%</b></td>
       </tr>
       <tr>
-        <th>Sugar 12g</th>
+        <th>Carbohydrates 17g</th>
+        <td><b>6%</b></td>
+      </tr>
+      <tr>
+        <th>+ Fibre 0g</th>
+        <td><b>0%</b></td>
+      </tr>
+      <tr>
+        <th>+ Sugar 13g</th>
         <td><b>24%</b></td>
+      </tr>
+      <tr>
+        <th>Protein 0g</th>
+        <td><b>0%</b></td>
       </tr>
     </tbody>
     <tfoot>
